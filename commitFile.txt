@@ -1,3 +1,8 @@
 https://github.com/NidhiKat/hello-world.git
+<<<<<<< HEAD
 second line 
 fourth line
+=======
+second line 
+third line..
+>>>>>>> 2c79c26bce3861d65f6e7504f390c4e1ae521b7b
